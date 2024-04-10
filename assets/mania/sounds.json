@@ -1,0 +1,243 @@
+{
+  "racersloop": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "mania:racersloop",
+        "stream": "true"
+      }
+    ],
+    "subtitle": "boop"
+  },
+  "coinpickup": {
+    "category": "ambient",
+    "sounds": [
+      "mania:coinpickup"
+    ],
+    "subtitle": "u got crystals :3"
+  },
+  "pvprumble": {
+    "category": "ambient",
+    "sounds": [
+      "mania:pvprumble"
+    ],
+    "subtitle": "subtitles.custom.PVPRumble"
+  },
+  "decision_dial": {
+    "category": "ambient",
+    "sounds": [
+      "mania:decision_dial"
+    ],
+    "subtitle": "Decision Dial by Noru55"
+  },
+  "gong": {
+    "category": "ambient",
+    "sounds": [
+      "mania:gong"
+    ],
+    "subtitle": "subtitles.custom.Gong"
+  },
+  "hideandhunt": {
+    "category": "ambient",
+    "sounds": [
+      "mania:hideandhunt"
+    ],
+    "subtitle": "Hide and Go Hunt by Noru55"
+  },
+  "skysurvivors": {
+    "category": "ambient",
+    "sounds": [
+      "mania:skysurvivors"
+    ],
+    "subtitle": "Cloud Clashers by Noru55"
+  },
+  "overtime": {
+    "category": "ambient",
+    "sounds": [
+      "mania:overtime"
+    ],
+    "subtitle": "Overtime begins"
+  },
+  "countdown": {
+    "category": "ambient",
+    "sounds": [
+      "mania:countdown"
+    ],
+    "subtitle": "Countdown by Noru55!"
+  },
+  "precisionbuild": {
+    "category": "ambient",
+    "sounds": [
+      "mania:precisionbuild"
+    ],
+    "subtitle": "Precision Build by Summernature!"
+  },
+  "parkourpanic": {
+    "category": "ambient",
+    "sounds": [
+      "mania:parkourpanic"
+    ],
+    "subtitle": "Parkour Panic by Noru55!"
+  },
+  "blockparty": {
+    "category": "ambient",
+    "sounds": [
+      "mania:blockparty"
+    ],
+    "subtitle": "Blockparty by Summernature!"
+  },
+  "overtimetwo": {
+    "category": "ambient",
+    "sounds": [
+      "mania:overtimetwo"
+    ],
+    "subtitle": "Overtime by Noru55!"
+  },
+  "racers": {
+    "category": "ambient",
+    "sounds": [
+      "mania:racers"
+    ],
+    "subtitle": "Racers Begins"
+  },
+  "tussle": {
+    "category": "ambient",
+    "sounds": [
+      "mania:tussle"
+    ],
+    "subtitle": "Tussle by Toxxable!"
+  },
+  "finalegame": {
+    "category": "ambient",
+    "sounds": [
+      "mania:finalegame"
+    ],
+    "subtitle": "Finale by Toxxable!"
+  },
+  "racersstart": {
+    "category": "ambient",
+    "sounds": [
+      "mania:racersstart"
+    ],
+    "subtitle": "boop"
+  },
+  "coin_multiplier": {
+    "category": "ambient",
+    "sounds": [
+      "mania:coin_multiplier"
+    ],
+    "subtitle": "coin multiplier increases"
+  },
+  "game_announce": {
+    "category": "ambient",
+    "sounds": [
+      "mania:game_announce"
+    ],
+    "subtitle": "game announce"
+  },
+  "a": {
+    "category": "ambient",
+    "sounds": [
+      "mania:a"
+    ],
+    "subtitle": "a"
+  },
+  "lobby": {
+    "category": "ambient",
+    "sounds": [
+      "mania:lobby"
+    ],
+    "subtitle": "Lobby by Toxxable!"
+  },
+  "whistle": {
+    "category": "ambient",
+    "sounds": [
+      "mania:whistle"
+    ],
+    "subtitle": "can you blow my whistle"
+  },
+  "kit_select": {
+    "category": "ambient",
+    "sounds": [
+      "mania:kitselect"
+    ],
+    "subtitle": "Kit Selection by Noru55!"
+  },
+  "scollect": {
+    "category": "ambient",
+    "sounds": [
+      "mania:scollect"
+    ],
+    "subtitle": "SR: Collect by Noru55!"
+  },
+  "sfight": {
+    "category": "ambient",
+    "sounds": [
+      "mania:sfight"
+    ],
+    "subtitle": "SR: Fight by Noru55!"
+  },
+  "fireinthehole": {
+    "category": "ambient",
+    "sounds": [
+      "mania:hole"
+    ],
+    "subtitle": "Fire in the hole!!"
+  },
+  "preptime": {
+    "category": "ambient",
+    "sounds": [
+      "mania:preptime"
+    ],
+    "subtitle": "Preptime by Noru55!"
+  },
+  "reveal": {
+    "category": "ambient",
+    "sounds": [
+      "mania:reveal"
+    ],
+    "subtitle": "Revealing placements"
+  },
+  "game_update": {
+    "category": "ambient",
+    "sounds": [
+      "mania:game_update"
+    ],
+    "subtitle": "In-Game change"
+  },
+  "notifi": {
+    "category": "ambient",
+    "sounds": [
+      "mania:noti"
+    ],
+    "subtitle": "Game message"
+  },
+  "over": {
+    "category": "ambient",
+    "sounds": [
+      "mania:over"
+    ],
+    "subtitle": "Round/Game Over"
+  },
+  "click": {
+    "category": "ambient",
+    "sounds": [
+      "mania:click"
+    ],
+    "subtitle": "click"
+  },
+  "death": {
+    "category": "ambient",
+    "sounds": [
+      "mania:dying"
+    ],
+    "subtitle": "You died"
+  },
+  "panic": {
+    "category": "ambient",
+    "sounds": [
+      "mania:panic"
+    ],
+    "subtitle": "meow"
+  }
+}

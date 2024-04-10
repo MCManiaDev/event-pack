@@ -1,0 +1,43 @@
+{"providers":[{
+    "type": "space",
+    "advances": {
+      "➂": 7,
+      "➀": 7,
+      " ": 3
+    }
+  },
+  {
+    "file": "minecraft:font/ascii.png",
+    "ascent": 8,
+    "chars": [
+      "ÀÁÂÈÊËÍÓÔÕÚßãõğİ",
+      "ıŒœŞşŴŵžȇ\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      " !\"#$%\u0026\u0027()*+,-./",
+      "0123456789:;\u003c\u003d\u003e?",
+      "@ABCDEFGHIJKLMNO",
+      "PQRSTUVWXYZ[\\]^_",
+      "`abcdefghijklmno",
+      "pqrstuvwxyz{|}~\u0000",
+      "ÇüéâäàåçêëèïîìÄÅ",
+      "ÉæÆôöòûùÿÖÜø£Ø×ƒ",
+      "áíóúñÑªº¿®¬½¼¡«»",
+      "░▒▓│┤╡╢╖╕╣║╗╝╜╛┐",
+      "└┴┬├─┼╞╟╚╔╩╦╠═╬╧",
+      "╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀",
+      "αβΓπΣσμτΦΘΩδ∞∅∈∩",
+      "≡±≥≤⌠⌡÷≈°∙·√ⁿ²■\u0000"
+    ],
+    "type": "bitmap"
+  },
+  {
+    "type":"bitmap",
+    "file":"mania:gui/bossbar/timer.png",
+    "ascent":9,"height":10,
+    "chars":["\ue001"]
+  },
+  {
+    "type":"bitmap",
+    "file":"mania:gui/bossbar/text.png",
+    "ascent":9,"height":10,
+    "chars":["\ue002"]
+  }]}

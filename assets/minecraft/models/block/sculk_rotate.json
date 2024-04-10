@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_rotate_all",
+  "textures": {
+    "all": "minecraft:block/sculk"
+  }
+}

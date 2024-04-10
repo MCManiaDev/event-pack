@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mania:item/setting"
+	},
+	"gui_light": "front",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [-36, -75, 0],
+			"translation": [0, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-36, -75, 0],
+			"translation": [0, 1, 0]
+		},
+		"gui": {
+			"rotation": [-17, -23, 27],
+			"translation": [-0.25, 0, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

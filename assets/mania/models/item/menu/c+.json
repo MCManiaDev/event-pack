@@ -1,0 +1,14 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mania:item/c+"
+	},
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0, 1.5, 0],
+			"scale": [1.05, 1.05, 1.05]
+		}
+	}
+}

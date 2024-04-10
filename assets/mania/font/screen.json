@@ -1,0 +1,14 @@
+{"providers":[{
+    "type": "space",
+    "advances": {
+      "➂": 7,
+      "➀": 7
+    }
+  },
+  {
+    "type":"bitmap",
+    "file":"mania:gui/newblind.png",
+    "ascent":100,"height":10000,
+    "chars":["\ue001"]
+  }
+  ]}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/popped_chorus_fruit"
+  },
+  "overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "mania:item/green_plus"},
+		{"predicate": {"custom_model_data":101}, "model": "mania:item/pink_plus"},
+    {"predicate": {"custom_model_data":102}, "model": "mania:item/speed_boots"}
+	]
+}
