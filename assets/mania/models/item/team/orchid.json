@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "item/team/rose_rhinos"
+      "layer0": "mania:item/team/orchid_oysters"
     }
 }

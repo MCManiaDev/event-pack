@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "mania:item/eye"
+      "layer0": "mania:item/menu/eye"
     }
 }

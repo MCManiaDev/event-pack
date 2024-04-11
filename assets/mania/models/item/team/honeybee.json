@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "item/team/orchid_oysters"
+      "layer0": "mania:item/team/hydrangea_honeybees"
     }
 }

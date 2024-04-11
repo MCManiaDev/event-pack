@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "mania:item/trueb"
+		"layer0": "mania:item/menu/trueb"
 	},
 	"gui_light": "front",
 	"display": {

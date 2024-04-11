@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "item/team/tulip_tigers"
+      "layer0": "mania:item/team/tulip_tigers"
     }
 }

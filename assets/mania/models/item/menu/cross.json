@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "mania:item/outlinecross"
+		"layer0": "mania:item/menu/outlinecross"
 	},
 	"gui_light": "front",
 	"display": {

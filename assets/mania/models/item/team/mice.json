@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "item/team/cactus_camels"
+      "layer0": "mania:item/team/marigold_mice"
     }
 }

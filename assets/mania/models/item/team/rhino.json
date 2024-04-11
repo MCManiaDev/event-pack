@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "item/team/carnation_crabs"
+      "layer0": "mania:item/team/rose_rhinos"
     }
 }
