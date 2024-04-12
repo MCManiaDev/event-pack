@@ -34,7 +34,7 @@
     "type":"bitmap",
     "file":"mania:unicodes/mania.png",
     "ascent":8,
-    "height":8,
+    "height":10,
     "chars":["➒"]
   },
   {
