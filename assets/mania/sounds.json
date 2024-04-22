@@ -239,5 +239,12 @@
       "mania:panic"
     ],
     "subtitle": "meow"
+  },
+  "coincrate": {
+    "category": "ambient",
+    "sounds": [
+      "mania:coincrate"
+    ],
+    "subtitle": "*insert coin crate sound*"
   }
 }
