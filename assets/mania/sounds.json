@@ -246,5 +246,12 @@
       "mania:coincrate"
     ],
     "subtitle": "*insert coin crate sound*"
+  },
+  "event": {
+    "category": "ambient",
+    "sounds": [
+      "mania:event"
+    ],
+    "subtitle": "voing"
   }
 }

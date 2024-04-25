@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "mania:item/menu/outlinecross"
+		"layer0": "mania:item/falseb"
 	},
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"translation": [-0.25, 0, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [-0.5, 1, 0],
+			"scale": [1.2, 1.2, 1.2]
 		}
 	}
 }
