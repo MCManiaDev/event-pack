@@ -20,18 +20,6 @@
   },
   {
     "type":"bitmap",
-    "file":"mania:gui/container/spectate.png",
-    "ascent":68,"height":256,
-    "chars":[""]
-  },
-  {
-    "type":"bitmap",
-    "file":"mania:gui/container/settings.png",
-    "ascent":68,"height":256,
-    "chars":[""]
-  },
-  {
-    "type":"bitmap",
     "file":"mania:unicodes/mania.png",
     "ascent":8,
     "height":10,
@@ -301,12 +289,6 @@
     "file":"mania:icons/player/yellow.png",
     "ascent":8,"height":9,
     "chars":["\ue509"]
-  },
-  {
-    "type":"bitmap",
-    "file":"mania:icons/gray_cross.png",
-    "ascent":8,"height":9,
-    "chars":["\ue510"]
   },
   {
     "type":"bitmap",

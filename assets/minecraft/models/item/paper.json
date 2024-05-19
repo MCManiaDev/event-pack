@@ -11,38 +11,6 @@
     {
       "predicate":{"custom_model_data":2},
       "model":"mania:item/cover"
-    },
-    {
-      "predicate":{"custom_model_data":3},
-      "model":"item/wrench"
-    },
-    {
-      "predicate":{"custom_model_data":4},
-      "model":"item/check"
-    },
-    {
-      "predicate":{"custom_model_data":5},
-      "model":"item/cross"
-    },
-    {
-      "predicate":{"custom_model_data":6},
-      "model":"item/wing"
-    },
-    {
-      "predicate":{"custom_model_data":7},
-      "model":"item/c"
-    },
-    {
-      "predicate":{"custom_model_data":8},
-      "model":"item/c+"
-    },
-    {
-      "predicate":{"custom_model_data":9},
-      "model":"item/true"
-    },
-    {
-      "predicate":{"custom_model_data":10},
-      "model":"item/false"
     }
   ]
 }
