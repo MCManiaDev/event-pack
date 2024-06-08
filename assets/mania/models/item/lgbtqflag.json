@@ -1,0 +1,77 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "intersexflag",
+		"particle": "intersexflag"
+	},
+	"elements": [
+		{
+			"name": "Flag",
+			"from": [5.5, 7, 7.95],
+			"to": [12.5, 12, 8.05],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 10, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 2.5], "texture": "#0"},
+				"east": {"uv": [5, 0.5, 5.5, 3], "texture": "#0"},
+				"south": {"uv": [0, 2.5, 3.5, 5], "texture": "#0"},
+				"west": {"uv": [5, 3, 5.5, 5.5], "texture": "#0"},
+				"up": {"uv": [8.5, 0.5, 5, 0], "texture": "#0"},
+				"down": {"uv": [4, 5, 0.5, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Flag Pole",
+			"from": [4.5, 2, 7.5],
+			"to": [5.5, 12, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 10, 8]},
+			"faces": {
+				"north": {"uv": [3.5, 0, 4, 5], "texture": "#0"},
+				"east": {"uv": [4, 0, 4.5, 5], "texture": "#0"},
+				"south": {"uv": [4.5, 0, 5, 5], "texture": "#0"},
+				"west": {"uv": [0, 5, 0.5, 10], "texture": "#0"},
+				"up": {"uv": [4.5, 5.5, 4, 5], "texture": "#0"},
+				"down": {"uv": [5, 5, 4.5, 5.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 89, 0],
+			"translation": [0, 4, -2.75],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -89, 0],
+			"translation": [0, 4, -2.75],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 85, 0],
+			"translation": [-1.75, 5.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -85, 0],
+			"translation": [-1.75, 5.75, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"ground": {
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"gui": {
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "FLAG",
+			"origin": [5.5, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
