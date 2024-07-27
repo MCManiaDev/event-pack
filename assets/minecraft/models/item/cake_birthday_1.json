@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "block/cake_top_birthday",
-		"bottom": "block/cake_bottom",
-		"particle": "block/cake_side",
-		"side": "block/cake_side"
+		"4": "item/cake_top_birthday",
+		"bottom": "item/cake_bottom",
+		"particle": "item/cake_side",
+		"side": "item/cake_side"
 	},
 	"elements": [
 		{

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "block/cake_top_birthday",
-		"bottom": "block/cake_bottom",
-		"particle": "block/cake_side",
-		"side": "block/cake_side"
+		"3": "item/cake_top_birthday_2",
+		"bottom": "item/cake_bottom",
+		"particle": "item/cake_side",
+		"side": "item/cake_side"
 	},
 	"elements": [
 		{
@@ -15,7 +15,7 @@
 				"east": {"uv": [1, 8, 15, 16], "texture": "#side"},
 				"south": {"uv": [1, 8, 15, 16], "texture": "#side"},
 				"west": {"uv": [1, 8, 15, 16], "texture": "#side"},
-				"up": {"uv": [1, 15, 15, 1], "texture": "#4"},
+				"up": {"uv": [1, 15, 15, 1], "texture": "#3"},
 				"down": {"uv": [1, 1, 15, 15], "texture": "#bottom", "cullface": "down"}
 			}
 		}

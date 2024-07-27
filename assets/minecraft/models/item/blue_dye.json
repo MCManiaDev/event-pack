@@ -2,5 +2,15 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/blue_dye"
-  }
+  },
+  "overrides":[
+    { 
+      "predicate":{"custom_model_data":1},
+      "model":"item/cake_birthday_1"
+    },
+    { 
+      "predicate":{"custom_model_data":2},
+      "model":"item/cake_birthday_2"
+    }
+  ]
 }
