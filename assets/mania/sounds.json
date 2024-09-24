@@ -28,7 +28,7 @@
     "sounds": [
       "mania:decision_dial"
     ],
-    "subtitle": "Decision Dial by Noru55"
+    "subtitle": "&5Tally Theater &r&f&lby Noru55"
   },
   "gong": {
     "category": "ambient",
@@ -42,56 +42,56 @@
     "sounds": [
       "mania:hideandhunt"
     ],
-    "subtitle": "Hide and Go Hunt by Noru55"
+    "subtitle": "&5Hide and Go Hunt &r&f&lby Noru55"
   },
   "skysurvivors": {
     "category": "ambient",
     "sounds": [
       "mania:skysurvivors"
     ],
-    "subtitle": "Cloud Clashers by Noru55"
+    "subtitle": "&5Cloud Clashers &r&f&lby Noru55"
   },
   "overtime": {
     "category": "ambient",
     "sounds": [
       "mania:overtime"
     ],
-    "subtitle": "Overtime begins"
+    "subtitle": "&5Overtime &r&f&lby Noru55"
   },
   "countdown": {
     "category": "ambient",
     "sounds": [
       "mania:countdown"
     ],
-    "subtitle": "Countdown by Noru55!"
+    "subtitle": "&5Countdown &r&f&lby Noru55"
   },
   "precisionbuild": {
     "category": "ambient",
     "sounds": [
       "mania:precisionbuild"
     ],
-    "subtitle": "Precision Build by Summernature!"
+    "subtitle": "&5Precision Build &r&f&lby Summernature!"
   },
   "parkourpanic": {
     "category": "ambient",
     "sounds": [
       "mania:parkourpanic"
     ],
-    "subtitle": "Parkour Panic by Noru55!"
+    "subtitle": "&5Panic &r&f&lby Noru55"
   },
   "blockparty": {
     "category": "ambient",
     "sounds": [
       "mania:blockparty"
     ],
-    "subtitle": "Blockparty by Summernature!"
+    "subtitle": "&5BlockParty &r&f&lby Summernature!"
   },
   "overtimetwo": {
     "category": "ambient",
     "sounds": [
       "mania:overtimetwo"
     ],
-    "subtitle": "Overtime by Noru55!"
+    "subtitle": "&5Overtime &r&f&lby Noru55"
   },
   "racers": {
     "category": "ambient",
@@ -105,14 +105,14 @@
     "sounds": [
       "mania:tussle"
     ],
-    "subtitle": "Tussle by Toxxable!"
+    "subtitle": "&5Tussle &r&f&lby Toxxable"
   },
   "finalegame": {
     "category": "ambient",
     "sounds": [
       "mania:finalegame"
     ],
-    "subtitle": "Finale by Toxxable!"
+    "subtitle": "&5Finale &r&f&lby Toxxable"
   },
   "racersstart": {
     "category": "ambient",
@@ -147,7 +147,7 @@
     "sounds": [
       "mania:lobby"
     ],
-    "subtitle": "Lobby by Toxxable!"
+    "subtitle": "&5Lobby Music &r&f&lby Toxxable"
   },
   "whistle": {
     "category": "ambient",
@@ -253,5 +253,12 @@
       "mania:event"
     ],
     "subtitle": "voing"
+  },
+  "eruption": {
+    "category": "ambient",
+    "sounds": [
+      "mania:eruption"
+    ],
+    "subtitle": "&5Eruption &r&f&lby Hype26"
   }
 }
